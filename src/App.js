@@ -20,7 +20,7 @@ class App extends Component {
           <button
             type="button"
             className="btn btn-outline-primary"
-            onClick={() => this.setState({ name: "Singh" })}
+            onClick={() => this.setState({ name: "Singham" })}
           >
             Change Name
           </button>
